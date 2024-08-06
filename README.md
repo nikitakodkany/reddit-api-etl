@@ -1,5 +1,3 @@
-# reddit-api-etl
-
 # Reddit ETL Pipeline
 
 ## Overview
